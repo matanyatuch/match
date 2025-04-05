@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="p-8 max-w-3xl mx-auto">
-      <h1 className="text-4xl font-bold mb-4 text-center">ברוכים הבאים ל'מתנדבים בלב'</h1>
+      <h1 className="text-4xl font-bold mb-4 text-center">ברוכים הבאים ל&#39;מתנדבים בלב&#39;</h1>
       <p className="text-lg text-center mb-10">האתר שמחבר אותך להתנדבות שבדיוק מתאימה לך!</p>
 
       <section className="space-y-6">
@@ -18,10 +18,10 @@ export default function Home() {
         <div>
           <h2 className="text-2xl font-semibold mb-2">💬 מה אומרים מתנדבים?</h2>
           <blockquote className="border-r-4 border-blue-400 pr-4 italic text-right">
-            "מצאתי מקום מושלם להתנדב בו דרך השאלון – ועכשיו אני עוזר בקייטנה לילדים עם צרכים מיוחדים. תודה לכם!" – דניאל, בן 17
+            &quot;מצאתי מקום מושלם להתנדב בו דרך השאלון – ועכשיו אני עוזר בקייטנה לילדים עם צרכים מיוחדים. תודה לכם!&quot; – דניאל, בן 17
           </blockquote>
           <blockquote className="border-r-4 border-blue-400 pr-4 italic text-right mt-4">
-            "הרגשתי מבולבלת אחרי השירות הלאומי, ופה גיליתי שאני יכולה לעזור בהנגשה דיגיטלית – זה התחבר לי בול!" – חן, בת 19
+            &quot;הרגשתי מבולבלת אחרי השירות הלאומי, ופה גיליתי שאני יכולה לעזור בהנגשה דיגיטלית – זה התחבר לי בול!&quot; – חן, בת 19
           </blockquote>
         </div>
 

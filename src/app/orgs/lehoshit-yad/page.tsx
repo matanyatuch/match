@@ -21,7 +21,7 @@ export default function LehoshitYadPage() {
           target="_blank"
           className="bg-green-700 text-white px-6 py-3 rounded-xl hover:bg-green-800"
         >
-          🤲 להצטרפות ב"להושיט יד"
+          🤲 להצטרפות ב&quot;להושיט יד&quot;
         </a>
       </div>
     </main>
